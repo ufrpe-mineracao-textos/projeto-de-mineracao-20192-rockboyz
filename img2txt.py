@@ -8,6 +8,9 @@ try:
 except ImportError:
     import Image
 import pytesseract
+import glob
+import json
+import re
 
 def img2txt(filename):
     """
@@ -16,4 +19,32 @@ def img2txt(filename):
     text = pytesseract.image_to_string(Image.open(filename))  # We'll use Pillow's Image class to open the image and pytesseract to detect the string in the image
     return text
 
-print(img2txt('001.png'))
+images = glob.glob("./images/*.png")
+images.sort()
+
+dump_data = []
+
+for i, image in enumerate(images):
+    text = img2txt(image)
+    print(text)
+    print("===========")
+    question = {
+        "text": "",
+        "options": [],
+        "result": 0
+    }
+
+    # Search alternatives
+    optionsKey = ["A", "B", "C", "D"]
+    for opt in optionsKey:
+        result = ''
+        regex = r'^'+ opt + r'\.(.+)$|^\(' + opt + r'\)(.+)$'
+        search = re.search(regex, text, re.MULTILINE)
+        if search:
+            result = search.group(1) or search.group(2)
+        question["options"].append(result)
+
+    dump_data.append(question)
+print(dump_data)
+with open('questions.json', 'w') as outfile:
+    json.dump(dump_data, outfile, indent=4)
