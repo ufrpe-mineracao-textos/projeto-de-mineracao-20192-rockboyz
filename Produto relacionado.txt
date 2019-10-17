@@ -1,0 +1,7 @@
+O aplicativo photomath resolve questões de matemática a partir de uma foto da questão no caderno ou livro.
+Não é diretamente relacionado à questão de inglês, porém a idéia é a mesma.
+
+
+https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en_US
+
+https://tecnoblog.net/168039/app-photomath/
