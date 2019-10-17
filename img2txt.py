@@ -34,6 +34,15 @@ for i, image in enumerate(images):
         "result": 0
     }
 
+    # Search text
+    regex_text = r'(?s)\A\d+\.\s+(.+?)(?=\n\()'
+    match = re.search(regex_text, text)
+    print(match)
+    if match:
+        question["text"] = match.group(1)
+    else:
+        question["text"] = None
+
     # Search alternatives
     optionsKey = ["A", "B", "C", "D"]
     for opt in optionsKey:
