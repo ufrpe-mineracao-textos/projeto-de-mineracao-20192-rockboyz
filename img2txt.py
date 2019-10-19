@@ -3,6 +3,7 @@
 # pip install Pillow
 # pip install pytesseract
 # pip install google-cloud-vision
+# export GOOGLE_CLOUD_CRENDENTIALS=[path]
 
 try:
     from PIL import Image
