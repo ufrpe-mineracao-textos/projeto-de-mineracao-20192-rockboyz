@@ -2,22 +2,41 @@
 # pacman -S tesseract-data-eng
 # pip install Pillow
 # pip install pytesseract
+# pip install google-cloud-vision
 
 try:
     from PIL import Image
 except ImportError:
     import Image
+    
 import pytesseract
 import glob
 import json
 import re
+import base64
+from google.cloud import vision
 
-def img2txt(filename):
+def img2txt_tesseract(filename):
     """
     This function will handle the core OCR processing of images.
     """
     text = pytesseract.image_to_string(Image.open(filename))  # We'll use Pillow's Image class to open the image and pytesseract to detect the string in the image
     return text
+
+def img2txt_cloud(file):
+    """Detects text in the file located in Google Cloud Storage or on the Web.
+    """
+    client = vision.ImageAnnotatorClient()
+
+    with open(file, 'rb') as image_file:
+        content = image_file.read()
+
+    image = vision.types.Image(content=content)
+
+    response = client.text_detection(image=image)
+    texts = response.text_annotations
+
+    return response.full_text_annotation.text
 
 images = glob.glob("./images/*.png")
 images.sort()
@@ -25,7 +44,7 @@ images.sort()
 dump_data = []
 
 for i, image in enumerate(images):
-    text = img2txt(image)
+    text = img2txt_cloud(image)
     print(text)
     print("===========")
     question = {
@@ -54,6 +73,6 @@ for i, image in enumerate(images):
         question["options"].append(result)
 
     dump_data.append(question)
-print(dump_data)
+
 with open('questions.json', 'w') as outfile:
     json.dump(dump_data, outfile, indent=4)

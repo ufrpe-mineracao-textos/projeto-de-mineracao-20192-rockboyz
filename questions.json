@@ -1,6 +1,6 @@
 [
     {
-        "text": "The president of the United States\nappoints the cabinet members,\n\nappointments are subject to Senate\napproval.\n",
+        "text": "The president of the United States\nappoints the cabinet members,\nappointments are subject to Senate\napproval",
         "options": [
             " their",
             " with their",
@@ -10,22 +10,22 @@
         "result": 0
     },
     {
-        "text": "The prisoners were prevented from\n\nspeaking to reporters because\n",
+        "text": null,
+        "options": [
+            " not wanting the story in the papers",
+            " the story in the papers the",
+            " the public to hear the story",
+            " the superintendent did not want"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
         "options": [
             "",
             "",
             "",
             ""
-        ],
-        "result": 0
-    },
-    {
-        "text": "Like Thomas Berger\u2019s fictional character\nLittle Big Man, Lauderdale managed to\nfind himself where of important\nevents took place.\n\n \n",
-        "options": [
-            " it was an extraordinary number",
-            " there was an extraordinary number",
-            " an extraordinary number",
-            " an extraordinary number existed"
         ],
         "result": 0
     },
@@ -44,16 +44,16 @@
         "options": [
             " they are",
             " are",
-            " yet they",
-            " yet they are"
+            "",
+            ""
         ],
         "result": 0
     },
     {
-        "text": "According to the hypothesis in the study,\nthe monarchs pick up the magnetic field\nof the migrate by following\nmagnetic fields.\n\n \n",
+        "text": "According to the hypothesis in the study\nthe monarchs pick up the magnetic field\nof the\nmigrate by following\nmagnetic fields",
         "options": [
             " target monarchs",
-            " target since monarchs",
+            "",
             " target since monarchs are",
             " target"
         ],
@@ -64,7 +64,7 @@
         "options": [
             " Neural theories",
             " Aneural theory",
-            " Although n\u00e9ural theories",
+            " Although neural theories",
             " However neural theories"
         ],
         "result": 0
@@ -73,94 +73,94 @@
         "text": null,
         "options": [
             " A home is",
-            " Ahome is bought",
-            " When a home",
-            " When a home is bought"
-        ],
-        "result": 0
-    },
-    {
-        "text": "If ultraviolet radiation enters the Earth\u2019s\n\natmosphere, generally blocked by\nthe ozone concentrated in the\natmosphere.\n",
-        "options": [
-            " it",
-            " itis",
-            " so itis",
-            " then it"
-        ],
-        "result": 0
-    },
-    {
-        "text": "Among human chromosomes, the Y\nchromosome is unusual most of\n\nthe chromosome does not participate in\nmeiotic recombination.\n",
-        "options": [
-            " jin",
-            " so",
-            " and",
-            "_ in that"
-        ],
-        "result": 0
-    },
-    {
-        "text": "The three basic chords in the\ntonic, the dominant, and the\n\nsubdominant.\n\n \n",
-        "options": [
-            " functional harmony",
-            " functional harmony is",
-            " functional harmony are",
-            " functional harmony they are"
-        ],
-        "result": 0
-    },
-    {
-        "text": "Hale Telescope, at the Palomar\nObservatory in southern,California,\nscientists can photograph objects several\nbillion light years away.\n",
-        "options": [
-            " The",
-            " With the",
-            " They use the",
-            " Itis the"
-        ],
-        "result": 0
-    },
-    {
-        "text": "Witnout the proper card installed inside\nthe computer, impossible to run a\ngraphics program.\n",
-        "options": [
-            " _ is definitely",
-            " because of",
-            " itis",
-            " is"
-        ],
-        "result": 0
-    },
-    {
-        "text": "The charter for the Louisiana lottery was\ncoming up for renewal, spared no\nexpense in the fight to win renewal.\n",
-        "options": [
-            " the lottery comrilittee",
-            " so the lottery committee and",
-            " so the lottery committee",
-            " the lottery committee made"
-        ],
-        "result": 0
-    },
-    {
-        "text": "While in reality Alpha Centauri is a triple\n\nstar, to the naked eye to be a single\nstar.\n\n \n",
-        "options": [
-            " it appears",
-            " but it appears",
-            " appears +",
-            " despite it"
-        ],
-        "result": 0
-    },
-    {
-        "text": "The Sun\u2019s gravity severely distorted the\n\npath of the comet\n\nentered its\n\n \n\nwildly erratic orbit around Jupiter.\n",
-        "options": [
-            "",
-            "",
+            " A home is bought",
             "",
             ""
         ],
         "result": 0
     },
     {
-        "text": "Each object Jupiter\u2019s magnetic\nfield is deluged with electrical charges.\n+\n\n \n",
+        "text": "If ultraviolet radiation enters the Earth's\natmosphere,\nthe ozone concentrated in the\ngenerally blocked by\natmosphere",
+        "options": [
+            " it",
+            " it is",
+            " so it is",
+            " then it"
+        ],
+        "result": 0
+    },
+    {
+        "text": "Among human chromosomes, the Y\nchromosome is unusual\nmost of\nthe chromosome does not participate in\nmeiotic recombination",
+        "options": [
+            " in",
+            " so",
+            " and",
+            " in that"
+        ],
+        "result": 0
+    },
+    {
+        "text": "The three basic chords in\nthe\ntonic, the dominant, and the\nsubdominant.",
+        "options": [
+            " functional harmony",
+            " functional harmony",
+            " functional harmony are",
+            " functional harmony they are"
+        ],
+        "result": 0
+    },
+    {
+        "text": "Hale Telescope, at the Palomar\nObservatory in southern,California,\nscientists can photograph objects several\nbillion light years away.",
+        "options": [
+            " The",
+            " With the",
+            " They use the",
+            " It is the"
+        ],
+        "result": 0
+    },
+    {
+        "text": "Without the proper card installed inside\nthe computer,\ngraphics program.\nimpossible to run a",
+        "options": [
+            " is definitely",
+            " because of",
+            " t is",
+            " is"
+        ],
+        "result": 0
+    },
+    {
+        "text": "The charter for the Louisiana lottery was\ncoming up\nexpense in the fight to win renewal\nfor renewal,\nspared no",
+        "options": [
+            " the lottery commlittee",
+            "",
+            " so the lottery committee",
+            " the lottery"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " t appears",
+            " but it appears",
+            "",
+            " despite it"
+        ],
+        "result": 0
+    },
+    {
+        "text": "The Sun's gravity severely distorted the\npath of the comet\nwildly erratic orbit around Jupiter\nentered its",
+        "options": [
+            " it",
+            " when",
+            " after the comet came into it",
+            " once the comet"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
         "options": [
             " enters",
             " it enters",
@@ -170,7 +170,7 @@
         "result": 0
     },
     {
-        "text": "As its name suggests, the Prairie\nWetlands Resource Center the\nprotection of wetlands on the prairies of\n\nthe Dakotas, Montana, Minnesota, and\nNebraska.\n\n \n",
+        "text": "As its name suggests, the Prairie\nWetlands Resource Center\nthe\nprotection of wetlands on the prairies of\nthe Dakotas, Montana, Minnesota, and\nNebraska",
         "options": [
             " it focuses",
             " focuses on",
@@ -180,7 +180,7 @@
         "result": 0
     },
     {
-        "text": "One of the largest and most powerful\nbirds of prey in the world, a six-\nfoot wingspan and legs and talons\n\nroughly the size of a man\u2019s arms and\nlegs.\n",
+        "text": "One of the largest and most powerful\nbirds of prey in the world,\nfoot wingspan and legs and talons\nroughly the size of a man's arms and\nlegs\na six",
         "options": [
             " so the harpy has",
             " the harpy having",
@@ -190,7 +190,7 @@
         "result": 0
     },
     {
-        "text": "creation of such a community was\na desirable step, the requisite political\nupheaval had to be accepted.\n",
+        "text": null,
         "options": [
             " Since the",
             " The",
@@ -200,27 +200,27 @@
         "result": 0
     },
     {
-        "text": "Dolphins form extremely complicated\nallegiances and continually\nchange.\n\n \n",
+        "text": "Dolphins form extremely complicated\nallegiances and\nchange\ncontinually",
         "options": [
-            " enmities that",
-            " that are enmities",
-            " enmities that are",
+            "",
+            "",
+            "",
             " that enmities"
         ],
         "result": 0
     },
     {
-        "text": "Scientists are now beginning to conduct\n\nexperiments on\n\ntrigger different\n\n \n\nsorts of health risks.\n",
+        "text": "Scientists are now beginning to conduct\nexperiments on\nsorts of health risks.\ntrigger different",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " noise pollution can",
+            " that noise pollution",
+            " how noise pollution",
+            " how noise pollution can"
         ],
         "result": 0
     },
     {
-        "text": "The Apollo 11 astronauts of the\nEarth\u2019s inhabitants witnessed on the\nfamous first moonwalk on July 20, 1969,\nwere Neil Armstrong and Buzz Aldrin.\n\n \n",
+        "text": null,
         "options": [
             " whom",
             " whom millions",
@@ -230,17 +230,17 @@
         "result": 0
     },
     {
-        "text": "At the end of the nineteenth century,\nAlfred Binet developed a test for\nmeasuring intelligence served as\nthe basis of modern IQ tests.\n",
+        "text": "At the end of the nineteenth century,\nAlfred Binet developed a test for\nmeasuring intelligence\nthe basis of modern IQ tests.\nserved as",
         "options": [
             " has",
-            " it has",
+            "",
             " and",
             " which has"
         ],
         "result": 0
     },
     {
-        "text": "have at least four hours of\nhazardous materials response training is\nmandated by federal law.\n",
+        "text": "have at least four hours of\nhazardous\nmaterials\nresponse training is\nmandated by federal law",
         "options": [
             " All police officers",
             " All police officers must",
@@ -250,27 +250,27 @@
         "result": 0
     },
     {
-        "text": "Acloud\u2019s reservoir of negative charge\nextends upward from the altitude at\n\n \n",
+        "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " temperatures hit",
+            " hit temperatures",
+            " which temperatures hit",
+            " which hit temperatures"
         ],
         "result": 0
     },
     {
-        "text": "Ina 1988 advanced officers\u2019 training\nprogram, Sampson developed a plan to\nincorporate police in enforcing\nenvironmental protection laws whenever\n\nfeasible.\n",
+        "text": null,
         "options": [
-            " itis",
-            " is",
+            " t is",
+            "",
             " has",
-            " ithas"
+            " it has"
         ],
         "result": 0
     },
     {
-        "text": "will be carried in the next space\nshuttle payload has not yet been\nannounced to the public.\n",
+        "text": null,
         "options": [
             " It",
             " What",
@@ -280,9 +280,9 @@
         "result": 0
     },
     {
-        "text": "During free fall, up toa full\n\nminute, a skydiver will fall at a constant\nspeed of 120 m.p.h.\n",
+        "text": null,
         "options": [
-            " itis",
+            " t is",
             " which is",
             " being",
             " is"
@@ -290,29 +290,29 @@
         "result": 0
     },
     {
-        "text": "The fact the most important\nratings period is about to begin has\ncaused all the networks to shore up their\nschedules.\n",
+        "text": null,
         "options": [
             " is that",
-            " of",
+            "",
             " that",
             " what"
         ],
         "result": 0
     },
     {
-        "text": null,
+        "text": "loom high above the northern and\nnortheastern boundaries of the\nexpanding city of Tucson.",
         "options": [
-            " The Santa Catalina mountains",
-            " Because the Santa Catalina",
-            " The Santa Catalina mountains are",
+            "",
+            "",
+            "",
             " That the Santa Catalina mountains"
         ],
         "result": 0
     },
     {
-        "text": "Radioactive provides a powerful\nway to measure geologic time.\n",
+        "text": "Radioactive\nprovides a powerful\nway to measure geologic time",
         "options": [
-            " it",
+            " i",
             " dates",
             " dating",
             " can"
@@ -330,9 +330,9 @@
         "result": 0
     },
     {
-        "text": null,
+        "text": "The benefit_\nthe study is that it\nprovides necessary information to\nanyone who needs it",
         "options": [
-            " of",
+            "",
             " which",
             " that",
             " because"
@@ -340,7 +340,7 @@
         "result": 0
     },
     {
-        "text": "The same symptoms that occur\noccur with cocaine.\n",
+        "text": "The same symptoms that occur\nOccur with cocaine",
         "options": [
             " amphetamines can",
             " with amphetamines can",
@@ -350,7 +350,7 @@
         "result": 0
     },
     {
-        "text": "Many companies across the country have\nmolded the concepts describes\ninto an integrated strategy for\npreventing stress.\n",
+        "text": "Many companies across the country have\nmolded the concepts\ndescribes\nin to an integrated strategy for\npreventing stress.",
         "options": [
             " and Wolf",
             " that Wolf",
@@ -363,16 +363,16 @@
         "text": null,
         "options": [
             " Although it appears",
-            " It appears",
+            "",
             " What appears",
             " Despite its appearance"
         ],
         "result": 0
     },
     {
-        "text": "Ifa food label indicates that a food is\nmostly carbohydrate, it does not mean\nis a good food to eat.\n",
+        "text": "If a food label indicates that a food is\nmostly carbohydrate, it does not mean\nis a good food to eat",
         "options": [
-            " andit",
+            " and it",
             " and",
             " that it",
             " when"
@@ -380,17 +380,17 @@
         "result": 0
     },
     {
-        "text": "Aneed for space law to include\ncommercial concerns has been\nrecognized inasmuch been\nexpanding drastically in recent years.\n\n \n",
+        "text": "A need for space law to include\ncommercial concerns has been\nrecognized inasmuch\nexpanding drastically in recent years.\nbeen",
         "options": [
-            " the commercial launch industry",
-            " the commercial launch industry",
-            " as has the commercial launch",
+            "",
+            "",
+            "",
             " as the commercial launch industry"
         ],
         "result": 0
     },
     {
-        "text": "The report on the nuclear power plant\nindicated that when the plant had gone\non line unsafe.\n",
+        "text": null,
         "options": [
             " and it had been",
             " it had been",
@@ -400,29 +400,29 @@
         "result": 0
     },
     {
-        "text": "When nests during spring nesting\n\nseason, Canadian geese are fiercely\nterritorial.\n\n \n",
+        "text": null,
         "options": [
             " building",
-            " are building",
+            "",
             " built",
             " are built"
         ],
         "result": 0
     },
     {
-        "text": "In 1870, Calvin, along with Adirondack\nhunter Alvah Dunning, made the first\nknown ascent of Seward Mountain,\nfar from roads or trails.\n\n \n",
+        "text": null,
         "options": [
-            " aremote peak",
-            " itis a remote peak",
-            " aremote peak is",
+            " a remote peak",
+            " it is a remote peak",
+            " a remote peak is",
             " which a remote peak"
         ],
         "result": 0
     },
     {
-        "text": "Kokanee salmon begin to deteriorate\nand die soon at the age of four.\n\n \n",
+        "text": "Kokanee salmon begin to deteriorate\nand die soon\nat the age of four",
         "options": [
-            " they spawn",
+            " they spaWn",
             " after spawning",
             " spawn",
             " spawned the salmon"
@@ -430,9 +430,9 @@
         "result": 0
     },
     {
-        "text": "behind government secrecy for\nnearly half a century, the Hanford plant\nin central Washington produced\n\nplutonium for the nuclear weapons of\nthe Cold War.\n",
+        "text": "behind government secrecy for\nnearly half a century, the Hanford plant\nin central Washington produced\nplutonium for the nuclear weapons\nthe Cold War\nof",
         "options": [
-            " Itis hidden",
+            " It is hidden",
             " Hidden",
             " Which is hidden",
             " The plant is hiding"
@@ -440,7 +440,7 @@
         "result": 0
     },
     {
-        "text": "Until incorrect, astronomers had\nassumed that the insides of white dwarfs\nwere uniform.\n",
+        "text": "Until\nincorrect, astronomers had\nassumed that the insides ofwhite dwarfs\nwere uniform",
         "options": [
             " they",
             " their proof",
@@ -453,24 +453,24 @@
         "text": null,
         "options": [
             " They were searching for",
-            " It wasa search for",
+            " It was a search for",
             " Searched for",
             " Searching for"
         ],
         "result": 0
     },
     {
-        "text": "In Hailey, the best-known lecturer was\nwomen\u2019s rights activist Abigail Scott\nDuniway of Portland, Oregon, who could\nusually be persuaded to speak\ntown visiting her son.\n\n \n",
+        "text": "In Hailey, the best-known lecturer was\nwomen's rights activist Abigail Scott\nDuniway of Portland, Oregon, who could\nusually be\ntown visiting her son.\npersuaded to speak",
         "options": [
-            " she was in",
-            " while in",
-            " while she was",
+            "",
+            "",
+            "",
             " was in"
         ],
         "result": 0
     },
     {
-        "text": "The National Restaurant\nWashington, says that federal efforts to\nregulate workplace smoking would limit\nrestaurants\u2019 ability to respond to the\ndesires of their patrons.\n\n \n",
+        "text": "The National Restaurant\nWashington, says\nregulate workplace smoking would limit\nrestaurants' ability to respond to the\ndesires of their patrons.\nthat federal efforts to",
         "options": [
             " Association in",
             " Association is in",
@@ -480,37 +480,37 @@
         "result": 0
     },
     {
-        "text": "in North American waterways a\nlittle over a decade ago, zebra mussels\n\nhave already earned a nasty reputation\nfor their expensive habit of clogging\n\nwater pipes in the Great Lakes area.\n",
+        "text": null,
         "options": [
-            " The first sighting",
-            " Although first sighted",
-            " Zebra mussels were first sighted",
-            " First sighting"
+            "",
+            "",
+            "",
+            ""
         ],
         "result": 0
     },
     {
-        "text": "Small companies may take their goods\nabroad for trade shows without paying\nforeign value-added taxes by acquiring\n\nan ATA carnet.\n\n \n",
+        "text": "Small companies may take their goods\nabroad for trade shows without paying\nforeign value-added taxes by acquiring\nan ATA carnet",
         "options": [
-            " adocument calls",
-            " adocument called",
-            " callsa document",
+            " a document calls",
+            " a document called",
+            " calls a document",
             " called a document"
         ],
         "result": 0
     },
     {
-        "text": "In the United States\napproximately four million miles of\nroads, streets, and highways.\n",
+        "text": "In the United States\napproximately four million miles of\nroads, streets, and highways",
         "options": [
             " there",
-            " is",
+            "",
             " they",
             " there are"
         ],
         "result": 0
     },
     {
-        "text": "twelve million immigrants entered\nthe United States via Ellis Island.\n",
+        "text": null,
         "options": [
             " More than",
             " There were more than",
@@ -520,7 +520,7 @@
         "result": 0
     },
     {
-        "text": "The television, so long been a part\nof our culture, has an enormous\ninfluence.\n",
+        "text": "The television,\nso long been a part\nof our culture, has an enormous\ninfluence",
         "options": [
             " has",
             " it has",
@@ -530,17 +530,17 @@
         "result": 0
     },
     {
-        "text": "Psychologists have traditionally\nmaintained that infants cannot\nformulate long-term memories until\n\nthe age of eight or nine months.\n",
+        "text": "Psychologists have traditionally\nmaintained that infants cannot\nformulate long-term memories until\nage of eight or nine months\nthe",
         "options": [
             " they",
             " they reach",
-            " toreach",
+            " to reach",
             " reach"
         ],
         "result": 0
     },
     {
-        "text": "a cheese shop has since grown into\na small conglomerate consisting of a\ncatering business and two retail stores.\n",
+        "text": null,
         "options": [
             " In the beginning of",
             " It began as",
@@ -550,19 +550,19 @@
         "result": 0
     },
     {
-        "text": "Primarily a government contractor,\npreferential treatment from\ngovernment agencies as both a minority-\ngroup member and a woman.\n\n \n",
+        "text": null,
         "options": [
             " receives Weber",
             " Weber receives",
             " the reception of Weber",
-            " according to Weber\u2019s reception"
+            " according to Weber's reception"
         ],
         "result": 0
     },
     {
-        "text": null,
+        "text": "Because the project depends on\nthe federal level, the city and county may\nhave to wait until the budget cutting\nends\n-at",
         "options": [
-            " it happens",
+            " t happens",
             " which happening",
             " what happens",
             " that it happens"
@@ -570,31 +570,31 @@
         "result": 0
     },
     {
-        "text": "definitive study of a western hard-\n\nrock mining community cemetery\nappears to have been done is in Silver\nCity, Nevada.\n",
+        "text": null,
         "options": [
             " Most",
             " The most",
             " Where most",
-            " Where the most"
+            " Wheree the most"
         ],
         "result": 0
     },
     {
-        "text": "One of the areas of multimedia that is\ngrowing quickly is sound.\n\n \n",
+        "text": "One of the areas of multimedia that is\nis sound\ngrowing quickly -",
         "options": [
-            " yet is easily overlooked",
-            " is easily overlooked",
-            " it is easily overlooked",
-            " that is easily overlooked"
+            "",
+            "",
+            "",
+            ""
         ],
         "result": 0
     },
     {
-        "text": ", early approaches for coping with\nworkplace stress dealt with the problem\nonly after its symptoms had appeared.\n\n \n",
+        "text": null,
         "options": [
             " Although well-intending",
             " Although it is a good intention",
-            " Although a good intention",
+            "",
             " Although well-intended"
         ],
         "result": 0
@@ -602,20 +602,20 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " spending",
+            " saving",
+            " losing",
+            " stealing"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " chef.. hungry",
+            " clown.. happy",
+            " doctor... good",
+            " bully. bad"
         ],
         "result": 0
     },
@@ -642,9 +642,9 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
+            " no",
+            " less",
+            " extra",
             " red"
         ],
         "result": 0
@@ -652,9 +652,9 @@
     {
         "text": null,
         "options": [
+            " puppies",
             "",
-            "",
-            "",
+            " cookies",
             " ideas"
         ],
         "result": 0
@@ -672,9 +672,9 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
+            " broke",
+            " made",
+            " invented",
             " learned"
         ],
         "result": 0
@@ -682,10 +682,10 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " wear... barefoot",
+            " buy.. trying",
+            " tie. learning",
+            " find. hiding"
         ],
         "result": 0
     },
@@ -702,29 +702,29 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " ugly.. beautiful",
+            " selfish... generous",
+            " greedy terrible",
+            " sarcastic.. funny"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            " cupcakes ... baker",
-            " songs ... singer",
-            " bread ... artist",
-            " paintings ... teacher"
+            " cupcakes... baker",
+            " songs singer",
+            " bread. artist",
+            " paintings.. teacher"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
+            " higher",
+            " similar",
+            " lower",
             " worse"
         ],
         "result": 0
@@ -732,17 +732,17 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " like ... ignores",
+            " understand ... asks",
+            " fail has",
+            " learn"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
+            " sports",
             "",
             "",
             " vegetables"
@@ -752,19 +752,19 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " polite",
+            " ugly",
+            " artistic",
+            " strong"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
+            " patient",
+            " nervous",
+            " angry",
             " frustrated"
         ],
         "result": 0
@@ -782,9 +782,9 @@
     {
         "text": null,
         "options": [
-            " airport ... helicopters",
-            "",
-            "",
+            " airport.. helicopters",
+            " beach . shells",
+            " zoo... elephants",
             " supermarket ... tomatoes"
         ],
         "result": 0
@@ -792,20 +792,20 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " hard... easy",
+            " great.. good",
+            " fun weird",
+            " new. interesting"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " theater.. sold out",
+            " zoo ... fantastic",
+            " post office ... closed",
+            " high school.. boring"
         ],
         "result": 0
     },
@@ -822,10 +822,10 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " crashed expected",
+            " missed late",
+            " took ... walking",
+            " likes... driving"
         ],
         "result": 0
     },
@@ -842,20 +842,20 @@
     {
         "text": null,
         "options": [
-            " tired... bed",
-            " angry... room",
-            " beautiful ... mirror",
-            " sick ... hospital"
+            " tired. bed",
+            " angry room",
+            " beautiful... mirror",
+            " sick... hospital"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            " an uncommon... helpful",
-            " aweird ... bad",
-            " anew... impossible",
-            " adifficult ... hard"
+            " an uncommon . helpful",
+            " a weird. bad",
+            " a new.. impossible",
+            " a difficult ... hard"
         ],
         "result": 0
     },
@@ -872,19 +872,19 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            " make ... hands"
+            " smoke.. health",
+            " buy. wealth",
+            " sell...business",
+            " make. hands"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
+            " study",
+            " clean",
+            " dance",
             " drink"
         ],
         "result": 0
@@ -892,30 +892,30 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            " cousins ... farm"
+            " brothers... island",
+            " neighbors... street",
+            " friends. boat",
+            " cousins farm"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            " janitor ... cafeteria",
-            " father ... children",
+            " janitor. cafeteria",
+            " father. children",
             " musician ... orchestra",
-            " senator ... government"
+            " senator... government"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " poorly. worked",
+            " quickly. ran",
+            " well studied",
+            " badly. prepared"
         ],
         "result": 0
     },
@@ -932,10 +932,20 @@
     {
         "text": null,
         "options": [
-            " wine... spill",
-            " juice ... drink",
-            " milk ... cook",
-            " coffee ... burn"
+            " wine. spill",
+            " juice drink",
+            " milk... cook",
+            " coffee burn"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " woman... funny",
+            " monkey. wonderful",
+            " baby. cute",
+            " thief. terrible"
         ],
         "result": 0
     },
@@ -943,38 +953,28 @@
         "text": null,
         "options": [
             "",
-            "",
-            "",
-            ""
+            " smile",
+            " breathe",
+            " talk"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " makeup ... paint",
+            " shoes... mittens",
+            " skirts... pants",
+            " sweaters.. jeans"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            " sweaters ... jeans"
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
+            " quiet",
+            " serious",
+            " lonely",
             " funny"
         ],
         "result": 0
@@ -992,59 +992,59 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " teacher... library",
+            " food. cafeteria",
+            " artist... museum",
+            " color.. store"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " shy",
+            " hungry",
+            " generous",
+            " social"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " work.. diseases",
+            " look... nurses",
+            " volunteer... doctors",
+            " clean ambulances"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " bought.. feel",
+            " saw... end",
+            " heard.. sound",
+            " cooked... begin"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            " cried ... dropped",
-            "",
-            " jumped ... bought"
+            " spoke.. swallowed",
+            " cried... dropped",
+            " slept. melted",
+            " jumped bought"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
+            " physics",
+            " literature",
+            " Spanish",
             " music"
         ],
         "result": 0
@@ -1052,19 +1052,19 @@
     {
         "text": null,
         "options": [
-            "",
-            " eats ... puppies",
-            "",
-            " hates ... cats"
+            " likes... flowers",
+            " eats. puppies",
+            " has... walking",
+            " hates... cats"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
+            " broke",
             " wrote",
-            "",
+            " made",
             " honored"
         ],
         "result": 0
@@ -1072,19 +1072,19 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            " good... taste"
+            " bland.. stand",
+            " cold. cook",
+            " spicy eat",
+            " good. taste"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
+            " boring",
             " simple",
-            "",
+            " fun",
             " hard"
         ],
         "result": 0
@@ -1092,9 +1092,9 @@
     {
         "text": null,
         "options": [
-            "",
+            " hated",
             " dreaded",
-            "",
+            " enjoyed",
             " avoided"
         ],
         "result": 0
@@ -1102,9 +1102,9 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
+            " newer",
+            " better",
+            " less expensive",
             " more comfortable"
         ],
         "result": 0
@@ -1112,19 +1112,19 @@
     {
         "text": null,
         "options": [
-            " nice... pretty",
+            " nice. pretty",
             " new... old",
-            " dirty ... ugly",
-            " clean... expensive"
+            " dirty.. ugly",
+            " clean.. expensive"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
+            " take",
             "",
-            " cook",
-            "",
+            " stir",
             " fix"
         ],
         "result": 0
@@ -1132,39 +1132,39 @@
     {
         "text": null,
         "options": [
-            "",
-            " tight ... comfortable",
-            "",
-            " large ... tired"
+            " pretty .. beautiful",
+            " tight. comfortable",
+            " long.. short",
+            " large tired"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " shaved",
+            " broke",
+            " improved",
+            " strengthened"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " juice.. delicious",
+            " coffee bitter",
+            " soda... fantastic",
+            " milk ... wonderful"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
+            " garage",
+            " house",
+            " automobile",
             " trunk"
         ],
         "result": 0
@@ -1172,9 +1172,9 @@
     {
         "text": null,
         "options": [
-            "",
+            " small",
             " green",
-            "",
+            " delicious",
             " huge"
         ],
         "result": 0
@@ -1182,10 +1182,130 @@
     {
         "text": null,
         "options": [
-            "",
-            " guilty ... tried",
-            "",
-            " excited ... bought"
+            " upset.. wore",
+            " guilty tried",
+            " arrested. took",
+            " excited bought"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " small. new",
+            " large. big",
+            " strange. weird",
+            " good.. huge"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " astuteness",
+            " acumen",
+            " ineptitude",
+            " adroitness"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " feculent",
+            " vile",
+            " decorous",
+            " ribald"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " in tandem",
+            " autonomously",
+            " in unison",
+            " agglomerated"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " reprehensible",
+            " chaste",
+            " scabrous",
+            " notorious"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " pluralism",
+            " a plenary",
+            " equanimity",
+            " unanimity"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " oratorical",
+            " orotund",
+            " sonorous",
+            " austere"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " deferential",
+            " ferocious",
+            " supercilious",
+            " insolent"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " adumbrates",
+            " promulgates",
+            " divines",
+            " heralds"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " apotheosized",
+            " antediluvian",
+            " aristocratic",
+            " austere"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " fractious",
+            " civil",
+            " raucous",
+            " noisome"
+        ],
+        "result": 0
+    },
+    {
+        "text": null,
+        "options": [
+            " inglorious",
+            " derivative",
+            " plebeian",
+            " haute"
         ],
         "result": 0
     },
@@ -1193,128 +1313,8 @@
         "text": null,
         "options": [
             "",
+            " perspicuous",
             "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "result": 0
-    },
-    {
-        "text": null,
-        "options": [
-            " opaque",
-            " _perspicuous",
-            " apparent",
             " ambiguous"
         ],
         "result": 0
@@ -1322,20 +1322,20 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " inanity",
+            " flattery",
+            " palaver",
+            " rapprochement"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " capricious judicious",
+            " facultative.. equitable",
+            " dispassionate ... partisan",
+            " arbitrary. discretionary"
         ],
         "result": 0
     },
@@ -1352,280 +1352,280 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " sagacious",
+            " spendthrift",
+            " tenebrous",
+            " prodigal"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " diligence",
+            " forbearance",
+            " haste",
+            " prudence"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " hoary",
+            " obsolete",
+            " sprightly",
+            " archaic"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " erotic",
+            " lascivious",
+            " unsullied",
+            " salacious"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " myopic",
+            " provident",
+            " biased",
+            " clairvoyant"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " warlocks",
+            " sibyls",
+            " augurs",
+            " haruspices"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
+            " assayable",
+            " relativistic",
             "",
-            "",
-            "",
-            ""
+            " enigmatic"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
+            " multifarious",
             "",
-            "",
-            "",
-            ""
+            " reputable",
+            " myriad"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " embezzlement",
+            " arbitrage",
+            " bamboozlement",
+            " hoodwinking"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " malleable",
+            " dainty",
+            " statuesque",
+            " lissome"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            " novitiate ... preeminence",
-            " adroitness ... prowess",
-            " internment ... sufficiency",
-            " neophytism ... propitiousness"
+            " novitiate.. preeminence",
+            " adroitness. prowess",
+            " internment.. sufficiency",
+            " neophytism .. propitiousness"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " purview",
+            " ambit",
+            " propinquity",
+            " palpability"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " heterodox",
+            " misanthropic",
+            " magnanimous",
+            " nefarious"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " superciliousness",
+            " diffidence",
+            " braggadocio",
+            " terseness"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " believability ... exaggeration",
+            " inexplicability .. mendacity",
+            " feasibility.. hyperbole",
+            " candor axiom"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " mordacious",
+            " equitable",
+            " putrid",
+            " barbarous"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
+            " transgression",
             "",
-            "",
-            "",
-            ""
+            " faux pas",
+            " impropriety"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " mogul...marvels",
+            " father...progenies",
+            " principal...cetaceans",
+            " captain...pygmies"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " apartheid",
+            " benevolene",
+            " xenophobia",
+            " ignorance"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " filched",
+            " pillaged",
+            " misappropriated",
+            " acquired"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " strumpet",
+            " vamp",
+            " harlot",
+            " coquette"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " recalcitrant",
+            " Pollyanna",
+            " theoretical",
+            " chimerical"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " callow",
+            " sophomoric",
+            " guileless",
+            " perfidious"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
+            " aqueduct",
             "",
-            "",
-            "",
-            ""
+            " latrine",
+            " conduit"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " derelict opulence",
+            " meretricious ... humility",
+            " elegant. gaudiness",
+            " ostentatious... flamboyance"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            " apogee ... zenith",
+            " apogee.. zenith",
             " peak ... mortification",
-            " acme... nadir",
-            ""
+            " acme. nadir",
+            " meridian. terminus"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " dauntlessly",
+            " pusillanimously",
+            " chivalrously",
+            " timorously"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " a cacophonous",
+            " a dulcet",
+            " a lugubrious",
+            " a jocund"
         ],
         "result": 0
     },
@@ -1642,70 +1642,70 @@
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " expatriated",
+            " venerated",
+            " chastised",
+            " lacerated"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            " fluctuated ... wavering",
-            " vacillated ... calcification",
-            " retreated ... disengagement",
-            " dwindled ... augmentation"
+            " fluctuated. wavering",
+            " vacillated. calcification",
+            " retreated. disengagement",
+            " dwindled augmentation"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " condemning ... jubilation",
+            " adjudicating... humiliation",
+            " pillorying. derision",
+            " impeaching.. renown"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " lachrymose",
+            " doleful",
+            " phlegmatic",
+            " pensive"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " vicissitudes",
+            " jeopardy",
+            " eccentricities",
+            " praxes"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " callously...an uncouth",
+            " audaciously...an abashed",
+            " impudently.a bantam",
+            " surreptitiously...a conspicuous"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            "",
-            "",
-            "",
-            ""
+            " fraudulently",
+            " surreptitiously",
+            " conspiratorially",
+            " circumspectly"
         ],
         "result": 0
     },
@@ -1714,7 +1714,7 @@
         "options": [
             " aspersed...bolstered",
             " desecrated...cleared",
-            " adulterated...purified",
+            " adulterated...urified",
             " ameliorated...tainted"
         ],
         "result": 0
@@ -1732,20 +1732,20 @@
     {
         "text": null,
         "options": [
+            " circumlocutory",
             "",
             "",
-            "",
-            ""
+            " daedal"
         ],
         "result": 0
     },
     {
         "text": null,
         "options": [
-            " static ... passive",
-            " vivacious ... latent",
-            " sedentary ... kinetic",
-            " vigorous ... lively"
+            " static... passive",
+            " vivacious. latent",
+            " sedentary. kinetic",
+            " vigorous.. lively"
         ],
         "result": 0
     },
@@ -1762,10 +1762,10 @@
     {
         "text": null,
         "options": [
-            " bounteously ... jocund",
-            " succinctly ... epigrammatically",
-            " compendiously .... prolix",
-            " curtly ... brusque"
+            " bounteously.. jocund",
+            " succinctly .. epigrammatically",
+            " compendiously.. prolix",
+            " curtly.. brusque"
         ],
         "result": 0
     },
@@ -1774,7 +1774,7 @@
         "options": [
             " an impregnable",
             " a staunch",
-            " a porous",
+            "",
             " an indelible"
         ],
         "result": 0
@@ -1794,7 +1794,7 @@
         "options": [
             " hymn",
             " threnody",
-            " paean",
+            "",
             " canticle"
         ],
         "result": 0
