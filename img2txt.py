@@ -15,7 +15,7 @@ import glob
 import json
 import re
 import base64
-from google.cloud import vision
+# from google.cloud import vision
 
 def img2txt_tesseract(filename):
     """
@@ -24,20 +24,21 @@ def img2txt_tesseract(filename):
     text = pytesseract.image_to_string(Image.open(filename))  # We'll use Pillow's Image class to open the image and pytesseract to detect the string in the image
     return text
 
-def img2txt_cloud(file):
-    """Detects text in the file located in Google Cloud Storage or on the Web.
-    """
-    client = vision.ImageAnnotatorClient()
 
-    with open(file, 'rb') as image_file:
-        content = image_file.read()
+# def img2txt_cloud(file):
+#     """Detects text in the file located in Google Cloud Storage or on the Web.
+#     """
+#     client = vision.ImageAnnotatorClient()
 
-    image = vision.types.Image(content=content)
+#     with open(file, 'rb') as image_file:
+#         content = image_file.read()
 
-    response = client.text_detection(image=image)
-    texts = response.text_annotations
+#     image = vision.types.Image(content=content)
 
-    return response.full_text_annotation.text
+#     response = client.text_detection(image=image)
+#     texts = response.text_annotations
+
+#     return response.full_text_annotation.text
 
 images = glob.glob("./images/*.png")
 images.sort()
@@ -45,7 +46,7 @@ images.sort()
 dump_data = []
 
 for i, image in enumerate(images):
-    text = img2txt_cloud(image)
+    text = img2txt_tesseract(image)
     print(text)
     print("===========")
     question = {
@@ -55,11 +56,12 @@ for i, image in enumerate(images):
     }
 
     # Search text
-    regex_text = r'(?s)\A\d+\.\s+(.+?)(?=\n\()'
+    regex_text = r'(?s)\A\d+\.\s+(.+?)(?=\n\()|\A(.+?)(?=\n\()'
     match = re.search(regex_text, text)
-    print(match)
+    
     if match:
-        question["text"] = match.group(1)
+        question["text"] = match.group(1) or match.group(2)
+        
     else:
         question["text"] = None
 
