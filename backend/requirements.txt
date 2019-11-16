@@ -1,0 +1,2 @@
+Django==2.2.5
+google-cloud-vision==0.39.0
