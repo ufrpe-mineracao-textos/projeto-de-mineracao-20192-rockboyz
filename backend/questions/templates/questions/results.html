@@ -1,0 +1,26 @@
+<div>
+    <h2>
+        We have detected this question:
+    </h2>
+    <div class="question-text">
+        {{question.text}}
+    </div>
+    <h2>
+        And those alternatives:
+    </h2>
+    <div class="question-alternatives">
+        <ol type="A">
+            {% for option in question.options %}
+                <li>
+                    {{option}}
+                </li>
+            {% endfor %}
+        </ol>
+    </div>
+    <h2>
+        We think the most probable answer is:
+    </h2>
+        <h3>
+            {{question.answer}}
+        </h3>
+</div>
