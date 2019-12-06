@@ -81,8 +81,9 @@ def index(request):
 
     if request.method == 'POST':
         # create a form instance and populate it with data from the request:
-        text = img2txt_cloud(request.FILES['image'].file.getvalue())
-        
+        fileData = request.FILES['image'].file.getvalue()
+        text = img2txt_cloud(fileData)
+
         question = parse_text(text)
         question['answer'] = best_probability(question)
 
