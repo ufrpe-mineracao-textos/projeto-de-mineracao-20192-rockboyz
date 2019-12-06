@@ -9,7 +9,7 @@ This is a project to answer fill in the blanks questions by extracting the image
 
 ### Solution 
 
-![enter image description here](https://github.com/ufrpe-mineracao-textos/projeto-de-mineracao-20192-rockboyz/raw/master/questao.png)
+![enter image description here](https://github.com/ufrpe-mineracao-textos/projeto-de-mineracao-20192-rockboyz/raw/master/solution.png)
 
 ## Install
 
