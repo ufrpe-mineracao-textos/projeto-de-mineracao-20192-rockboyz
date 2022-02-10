@@ -1,4 +1,4 @@
-Django==2.2.8
+Django==2.2.27
 google-cloud-vision==0.39.0
 gensim
 pyemd
